@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Soft_start", "Soft_start_V0.2.004-a\Soft_start.cproj", "{DFB689FE-BBFE-4F5B-B708-5AA4FBA2C993}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "DC_motor_driver", "DC_motor_driver_V2.0.010-ga\DC_motor_driver.cproj", "{0FB3CF99-6763-4E50-8CC8-A08BA6DAEE5A}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "regulator_m2", "regulator_m2_V0.5.007-a\regulator_m2.cproj", "{3915EEC0-6985-46BB-A873-564FCC82CA62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFB689FE-BBFE-4F5B-B708-5AA4FBA2C993}.Debug|AVR.ActiveCfg = Debug|AVR
+		{DFB689FE-BBFE-4F5B-B708-5AA4FBA2C993}.Debug|AVR.Build.0 = Debug|AVR
+		{DFB689FE-BBFE-4F5B-B708-5AA4FBA2C993}.Release|AVR.ActiveCfg = Release|AVR
+		{DFB689FE-BBFE-4F5B-B708-5AA4FBA2C993}.Release|AVR.Build.0 = Release|AVR
+		{0FB3CF99-6763-4E50-8CC8-A08BA6DAEE5A}.Debug|AVR.ActiveCfg = Debug|AVR
+		{0FB3CF99-6763-4E50-8CC8-A08BA6DAEE5A}.Debug|AVR.Build.0 = Debug|AVR
+		{0FB3CF99-6763-4E50-8CC8-A08BA6DAEE5A}.Release|AVR.ActiveCfg = Release|AVR
+		{0FB3CF99-6763-4E50-8CC8-A08BA6DAEE5A}.Release|AVR.Build.0 = Release|AVR
+		{3915EEC0-6985-46BB-A873-564FCC82CA62}.Debug|AVR.ActiveCfg = Debug|AVR
+		{3915EEC0-6985-46BB-A873-564FCC82CA62}.Debug|AVR.Build.0 = Debug|AVR
+		{3915EEC0-6985-46BB-A873-564FCC82CA62}.Release|AVR.ActiveCfg = Release|AVR
+		{3915EEC0-6985-46BB-A873-564FCC82CA62}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
